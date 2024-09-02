@@ -1,0 +1,14 @@
+{
+    "Lua.workspace.library": [
+        "X:\\SteamLibrary\\steamapps\\common\\GarrysMod\\garrysmod\\addons\\ImmPVox\\lua\\other\\pvox_definitions.lua",
+        "C:/Users/gkai7/AppData/Roaming/Code/User/globalStorage/sumneko.lua/addonManager/addons/garrysmod/module/library"
+    ],
+    "Lua.runtime.special": {
+        "include": "dofile",
+        "IncludeCS": "dofile"
+    },
+    "Lua.diagnostics.disable": [
+        "duplicate-set-field"
+    ],
+    "Lua.workspace.checkThirdParty": false
+}
